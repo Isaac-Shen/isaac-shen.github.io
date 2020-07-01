@@ -1,0 +1,9 @@
+# links
+DotNet:
+  link: https://dotnet.microsoft.com/
+  avatar: /images/favatar/Microsoft-Apps.png
+  desc: Free. Cross-platform. Open Source
+Spring:
+  link: https://spring.io/projects/spring-boot
+  avatar: /images/favatar/spring.png
+  desc: Spring-Boot
